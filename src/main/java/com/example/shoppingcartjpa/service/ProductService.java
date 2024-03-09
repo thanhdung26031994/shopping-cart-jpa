@@ -1,7 +1,7 @@
-package com.example.shoppingcart.service;
+package com.example.shoppingcartjpa.service;
 
-import com.example.shoppingcart.model.Product;
-import com.example.shoppingcart.repository.IProductRepository;
+import com.example.shoppingcartjpa.model.Product;
+import com.example.shoppingcartjpa.repository.IProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

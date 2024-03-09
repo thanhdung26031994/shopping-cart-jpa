@@ -1,4 +1,4 @@
-package com.example.shoppingcart.configuration;
+package com.example.shoppingcartjpa.configuration;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;

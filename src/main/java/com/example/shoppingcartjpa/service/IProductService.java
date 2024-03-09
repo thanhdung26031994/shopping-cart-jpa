@@ -1,6 +1,6 @@
-package com.example.shoppingcart.service;
+package com.example.shoppingcartjpa.service;
 
-import com.example.shoppingcart.model.Product;
+import com.example.shoppingcartjpa.model.Product;
 
 import java.util.Optional;
 

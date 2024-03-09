@@ -1,6 +1,6 @@
-package com.example.shoppingcart.controller;
+package com.example.shoppingcartjpa.controller;
 
-import com.example.shoppingcart.model.Cart;
+import com.example.shoppingcartjpa.model.Cart;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;

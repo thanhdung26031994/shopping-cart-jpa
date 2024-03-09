@@ -1,4 +1,4 @@
-package com.example.shoppingcart.model;
+package com.example.shoppingcartjpa.model;
 
 import javax.persistence.*;
 

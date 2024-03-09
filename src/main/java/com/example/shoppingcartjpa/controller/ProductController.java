@@ -1,8 +1,8 @@
-package com.example.shoppingcart.controller;
+package com.example.shoppingcartjpa.controller;
 
-import com.example.shoppingcart.model.Cart;
-import com.example.shoppingcart.model.Product;
-import com.example.shoppingcart.service.IProductService;
+import com.example.shoppingcartjpa.model.Cart;
+import com.example.shoppingcartjpa.model.Product;
+import com.example.shoppingcartjpa.service.IProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
